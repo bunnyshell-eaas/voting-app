@@ -60,6 +60,16 @@ COPY public.votes (id, vote) FROM stdin;
 9aa86e7162ed816	b
 9aa86e7162ed817	b
 9aa86e7162ed818	a
+9aa86e7162ed819	a
+9aa86e7162ed820	a
+9aa86e7162ed821	a
+9aa86e7162ed822	a
+9aa86e7162ed823	a
+9aa86e7162ed824	a
+9aa86e7162ed825	a
+9aa86e7162ed826	a
+9aa86e7162ed827	a
+9aa86e7162ed828	a
 \.
 
 
